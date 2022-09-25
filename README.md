@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://i.postimg.cc/mDqGjJGk/Whats-App-Image-2022-09-25-at-09-32-01.jpg">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
