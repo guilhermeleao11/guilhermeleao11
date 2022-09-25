@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/83231397?v=4">
+<img src="https://avatars.githubusercontent.com/u/83231397?v=4" width="100" height="100">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
