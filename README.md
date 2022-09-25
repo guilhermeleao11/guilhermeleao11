@@ -7,7 +7,7 @@ Programador Junior, estudante de Ciência de Computação na Universade Paulista
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Guilherme** {
+object **Seu nome** {
  val name = "Guilherme Augusto de Oliveira Leão"
  val acknowledgements = "Python + SQL"
  
@@ -38,18 +38,7 @@ object **Guilherme** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeleao11&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/guilherme-le%C3%A3o-772653186/
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
