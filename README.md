@@ -1,11 +1,55 @@
-<img src="https://avatars.githubusercontent.com/u/83231397?v=4" width="100" height="100">
+### Fala Pessoal 👋
 
-### Oi, Eu sou o Guilherme Leão 👋
-Sou estudante de ciencia da computação na faculdade UNIP - Campus Av. Paulista 
-- 🔭 Atualmente trabalho na área NOC de uma empresa de Telecomunicações na Zona Sul de São Paulo.
-- 🌱 Tenho principal foco na Linguagem de programação Python e estou buscando novas experiencias com SQL e HTML+CSS.
+Programador Junior, estudante de Ciência de Computação na Universade Paulista - UNIP.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=guilhermeleao11&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleao11&langs_count=8)
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Guilherme** {
+ val name = "Guilherme Augusto de Oliveira Leão"
+ val acknowledgements = "Python + SQL"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("SQL", "Python", "HTML", "CSS", "JAVA") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/guilhermeleao11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleao11&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/guilhermeleao11">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeleao11&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
