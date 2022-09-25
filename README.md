@@ -1,10 +1,9 @@
 <img src="https://avatars.githubusercontent.com/u/83231397?v=4" width="100" height="100">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Oi, Eu sou o Guilherme Leão 👋
+Sou estudante de ciencia da computação na faculdade UNIP - Campus Av. Paulista 
+- 🔭 Atualmente trabalho na área NOC de uma empresa de Telecomunicações na Zona Sul de São Paulo.
+- 🌱 Tenho principal foco na Linguagem de programação Python e estou buscando novas experiencias com SQL e HTML+CSS.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
