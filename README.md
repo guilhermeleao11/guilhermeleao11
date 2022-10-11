@@ -31,7 +31,7 @@ object **Seu nome** {
 
 ## **GitHub Estatísticas**
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/guilherme-le%C3%A3o-772653186/
 <br>
