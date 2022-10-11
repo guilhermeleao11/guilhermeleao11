@@ -31,7 +31,7 @@ object **Seu nome** {
 
 ## **GitHub Estatísticas**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeleao11&show_icons=true&theme=dark)
 
 [linkedin]: https://www.linkedin.com/in/guilherme-le%C3%A3o-772653186/
 <br>
