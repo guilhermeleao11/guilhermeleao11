@@ -31,13 +31,11 @@ object **Seu nome** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/guilhermeleao11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleao11&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/guilhermeleao11">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeleao11&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/guilherme-le%C3%A3o-772653186/
 <br>
